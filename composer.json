@@ -18,5 +18,6 @@
         "psr-4": {
             "Codeigniter\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
