@@ -1,2 +1,2 @@
 # igniter
-Composer Package of the "system" folder of Codeigniter framework.
+Composer Package for the "system" folder of Codeigniter framework.
