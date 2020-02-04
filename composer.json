@@ -2,17 +2,14 @@
     "name": "otengkwame/igniter",
     "description": "Composer Package for the \"system\" folder of Codeigniter framework.",
     "keywords": ["composer", "codeigniter", "installer"],
-    "type": "project",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "otengkwame",
-            "email": "developerkwame@gmail.com",
-            "role": "Software Engineer"
-        }
-    ],
+    "authors": [{
+        "name": "otengkwame",
+        "email": "developerkwame@gmail.com",
+        "role": "Software Engineer"
+    }],
     "require": {
-        "php" : ">=5.4.0"
+        "php": ">=5.4.0"
     },
     "autoload": {
         "psr-4": {
